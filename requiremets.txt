@@ -1,0 +1,6 @@
+socket
+logging
+concurrent.futures
+paramiko
+pyfiglet
+colorama
